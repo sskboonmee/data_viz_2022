@@ -8,3 +8,8 @@ https://github.com/sskboonmee/data_viz_2022/blob/main/Project_Dataviz.ipynb
 https://www.canva.com/design/DAE7w61wf8A/2neOtyQ8RirvS5hTW6suwg/view?utm_content=DAE7w61wf8A&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 * Dashboard
 https://datastudio.google.com/s/qdJTEyqxZlM
+
+# Final Group Cleme 
+* Github
+
+* Dashboard
