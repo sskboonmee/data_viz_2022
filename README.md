@@ -11,5 +11,6 @@ https://datastudio.google.com/s/qdJTEyqxZlM
 
 # Final Group Cleme 
 * Github
-
+https://github.com/sskboonmee/data_viz_2022/blob/main/FinalExamGroupCleme.ipynb
 * Dashboard
+https://datastudio.google.com/s/oZd_rZYawm4
